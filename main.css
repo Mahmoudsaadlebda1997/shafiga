@@ -1,0 +1,28 @@
+
+div{
+    width:  100%;
+    height: 100vh;
+    background-image:url(artworks-000053977331-s0qkcd-t500x500.jpg);
+    
+}
+form {   
+    text-align: center;
+    left:1%;
+    top: 30%;
+    z-index: 1;
+    position: relative;
+}
+form #txt {
+    size: 40px;
+}
+button {
+    background-color: white;
+    text-align: center;
+    top: 65%;
+    left: 45.5%;
+    width: 200px;
+    font-size: 50px;
+    position: absolute;
+    z-index: 1;
+
+}
